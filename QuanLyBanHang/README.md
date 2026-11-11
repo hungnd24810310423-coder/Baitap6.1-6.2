@@ -12,5 +12,6 @@
 2. Màn hình Quản lý Danh mục (CRUD - Thêm/Sửa/Xóa) <img width="368" height="322" alt="image" src="https://github.com/user-attachments/assets/8eab4c6d-2d91-46c6-8ad5-5272a1d22991" />
 
 3. Màn hình Thực thi Nghiệp vụ chính (Lập Hóa đơn / Bán hàng):![Màn hình Nghiệp vụ](images/03_transaction_screen.png)
-4. Màn hình Báo cáo - Thống kê:![Màn hình Thống kê](images/04_report_screen.png)
+4. Màn hình Báo cáo - Thống kê:<img width="1279" height="225" alt="image" src="https://github.com/user-attachments/assets/562d672e-5e13-401b-8e7c-94e753b7f6be" />
+
 5. Minh họa An toàn Dữ liệu (Phòng chống SQL Injection / Báo lỗi Transaction Rollback):![Minh họa Xử lý lỗi](images/05_error_handling.png)
